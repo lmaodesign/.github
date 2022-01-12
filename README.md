@@ -8,7 +8,8 @@ The Best Things to Say to Someone in Grief
 2. I wish I had the right words, just know I care.
 ```
 
-I am so sorry for your loss, I wish I had the right words, just know wish I could care. Please take a moment of silence, for `Tehila Neonification`, aka. TehNeon, which is his alias.
+I Am So Sorry for Your Loss, I Wish I Had the Right Words, Just Know I Would Care if I Wish I Care or Would Not. Please Take a Moment of Silence, for `Tehila Neonification`, AKA. Tehneon, Which Is His Alias.
+--
 ![image](https://user-images.githubusercontent.com/96917554/149058631-c446f11f-f371-4494-82d3-91092fd517d8.png)
 
 We have worked on another project, this is yet another very successful project. Despite us being less proud of this project, we still wanted to share it with the public. We present to you, [**TehNeon Specimen #2**](https://github.com/tehneon)
