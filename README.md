@@ -23,4 +23,6 @@ Finally, we have Speciment #4 of TehNeon V3 Development Team.
 ![image](https://user-images.githubusercontent.com/62861393/152442437-7597aeba-3016-46b4-be05-5da3d8541d1b.png)
 - This image shows Tehila when she was fat monkey.
 
+![image](https://user-images.githubusercontent.com/62861393/153329326-6d8642cc-4d73-4a75-8e7f-9391a938f9c3.png)
+
 Thank you for this. If you if want to if want you action the github spaenser yosing the boaeton. Agaen thank. Usain Bolt
