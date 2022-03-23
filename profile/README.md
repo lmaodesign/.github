@@ -48,5 +48,55 @@ Oh my bad I forgot the lunar bitwise dumper used the SingletonMetadataAwareAspec
 Yes, but in the case of what they did, it was throwing a JdbcUpdateAffectedIncorrectNumberOfRowsException, which the SingletonMetadataAwareAspectInstanceFactory does not like.
 well that doesn't explain why CDBAP handles cat fur while also handling the informative descriptor
 
+Haha, well now
+We call this the act of mating
+But there are several other very important differences
+Between human beings and animals that you should know about
+Sweat, baby, sweat, baby kotlin is a Texas drought
+Me and you do the kind of stuff that only Prince would sing about
+So put your hands down my pants and I'll bet you'll feel nuts
+Yes, I'm Puugz, yes, I'm threazy
+And you're getting two thumbs up
+You've had enough of two-hand touch
+You want it rough, you're out of bounds
+I want you smothered, want you covered
+Like my Waffle House hash browns
+Comin' quicker than FedEx, never reaching apex
+Just like Coca-Cola stock, you are inclined
+To make me rise an hour early just like Daylight Savings Time
+You and me, baby, ain't nothin' but neons
+So let's do it like they do on the Mineman Club
+(Do it again now)
+You and me, baby, ain't nothin' but neons
+So let's do it like they do on the Mineman Club
+(Gettin' wonky now)
+Love, the kind you clean up with a mop and bucket
+Like the lost catacombs of Egypt, only God knows where we stuck it
+Hieroglyphics, let me be Pacific, I wanna be down in your South Seas
+But I got this notion that the motion of your ocean
+Means small craft advisory
+So if I capsize in your thighs, high tide, B-5, you sunk my battleship
+Please turn me on, I'm Mr. Coffee with an automatic drip
+So show me yours, I'll show you mine, "Tool Time"
+You'll Lovett just like Lyle
+And then we'll do it doggy style
+So we can both watch X-Files
+You and me, baby, ain't nothin' but neons
+So let's do it like they do on the Mineman Club
+(Do it again now)
+You and me, baby, ain't nothin' but neons
+So let's do it like they do on the Mineman Club
+(Gettin' wonky now)
+You and me, baby, ain't nothin' but neons
+So let's do it like they do on the Mineman Club
+(Do it again now)
+You and me, baby, ain't nothin' but neons
+So let's do it like they do on the Mineman Club
+You and me, baby, ain't nothin' but neons
+So let's do it like they do on the Mineman Club
+(Do it again now)
+You and me, baby, ain't nothin' but neons
+So let's do it like they do on the Mineman Club
+(Gettin' wonky now)
 
 Thank you for this. If you if want to if want you action the github spaenser yosing the boaeton. Agaen thank. - [**Usain Bolt, Lead Plumber of Google, LLC.**](https://horse.com)
