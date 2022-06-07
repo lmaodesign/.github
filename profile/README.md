@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/62861393/172272175-c36272c6-f56b-4dec-bbbe-a024ea835d79.png)
+
 ## TehNeon v3 Development Team
 Welcome to Lmao Design! Here are dbl, we worship the gods in the [**TehNeon v3 Development Team**](https://forums.vape.gg/index.php?members/tehneon.729/). 
 - TehNeon v1 died on `Jul 15, 2018`. Below, you will see some of the last taken pictures of Xav-TehNeon v1.
