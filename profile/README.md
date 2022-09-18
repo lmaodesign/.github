@@ -73,6 +73,9 @@ Finally v2, we have [**TehNeon Specimen #6**](https://github.com/tehneon), of Te
 ```
 - This is Asciion.
 
+![image](https://camo.githubusercontent.com/f14869418caebf6b32dd4ed0334f34c50b1b99100103e43ef4ca7220526d79b8/687474703a2f2f7777772e64692e656e732e66722f77696c6c6f772f72657365617263682f7375727265616c2f696d616765732f7375727265616c2e676966)
+- This is TehNeon IRL last week in Las Vegas 
+
 It's simple. We're talking about generating heatmaps from individual data samples from our machine learning sampling model, but GrowlyX does not know how transient reified mutable native volatile eager memory leaks work, and therefore I'm proving him wrong.
 Huh? I'm not even using a POSIX universal packaging microservice for containerization. I'm using plusle with certain arithmetic operators to autonomously generate ASCII classes 
 What do you mean? This makes complete sense. Please check your internal database independent behavior microservice containerization management control functionality. It's bugged.
